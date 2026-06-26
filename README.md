@@ -1,5 +1,5 @@
 # precision-servo-angle-gauge
-A smart embedded systems project using an Arduino Uno/R4 to map potentiometer rotation to an SG90 Servo Motor with live angle tracking on an I2C 1602 LCD.
+A smart embedded systems project using an Arduino Uno R4 to map potentiometer rotation to an SG90 Servo Motor with live angle tracking on an I2C 1602 LCD.
 # Arduino Servo Angle Gauge (with LCD Display)
 
 I built a simple interactive system that lets you control a servo motor's angle using a potentiometer knob, while showing the exact live angle and a visual progress bar on an I2C LCD screen. 
